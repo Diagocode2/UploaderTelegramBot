@@ -1,0 +1,16 @@
+aiogram>=3.4
+multivolumefile>=0.2.3
+py7zr>=0.20
+requests>=2.31
+requests[socks]
+requests_toolbelt
+beautifulsoup4
+user_agentelethon 
+tenacity
+pyrogram
+tgcrypto
+aiohttp
+yarl
+telebot
+aiohttp
+aiohttp_socks
