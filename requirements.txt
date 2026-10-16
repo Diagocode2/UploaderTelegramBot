@@ -6,3 +6,4 @@ requests[socks]
 requests_toolbelt
 beautifulsoup4
 user_agent
+aiohttp_socks
