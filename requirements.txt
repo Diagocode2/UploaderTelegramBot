@@ -5,12 +5,4 @@ requests>=2.31
 requests[socks]
 requests_toolbelt
 beautifulsoup4
-user_agentelethon 
-tenacity
-pyrogram
-tgcrypto
-aiohttp
-yarl
-telebot
-aiohttp
-aiohttp_socks
+user_agent
