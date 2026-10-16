@@ -20,7 +20,7 @@ from aiogram.types import (
 )
 
 import splits
-import constants
+from constants import TOKEN, BASE_DIR, CONFIG_FILE
 
 dp = Dispatcher()
 
